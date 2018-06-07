@@ -1,1 +1,2 @@
-today is a good day!
+git is a distributed version control syetem.
+git is free software.
